@@ -1,0 +1,2 @@
+# jsUsefulStuff
+for myself
